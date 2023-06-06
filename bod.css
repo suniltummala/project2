@@ -1,0 +1,74 @@
+body{
+    background-color:black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+.pic{
+    margin-top: 1px;
+    margin-left: 15%;
+    margin-right: 15%;
+    display: flex;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    justify-content: space-evenly;
+    background-color: #0d1117;
+    border-top-left-radius: 90px;
+    border-bottom-right-radius: 90px;
+    height: 300px;
+    width: 1000px;
+    box-shadow: 5px 5px 10px , 5px 5px 10px ;
+
+    
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    margin-top: 15%;
+    border: 3px solid;
+        
+}
+
+div{
+    text-align: center;
+    color:white;
+    text-shadow: 0 0 3px #0d1117;
+}
+h1{
+    color: white;
+    text-shadow: 2px 2px 3px #ff0000, 2px 2px 3px #0000ff;
+    text-decoration: underline 5px rgb(240, 228, 228);
+    margin-top: 0%;
+    margin-left: 15%;
+    margin-right: 15%;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 15px;
+    padding-bottom: 30px;
+    background-color: #0d1117;
+    border-top-left-radius: 90px;
+    border-bottom-right-radius: 90px;
+    border-top-right-radius: 90px;
+    border-bottom-left-radius: 90px;
+    height: 100px;
+    width: 1000px;
+    font-size: 50px;
+    box-shadow: 5px 5px 10px #0000ff, 5px 5px 10px White;
+    
+}
+p{
+    font-size: x-large;
+
+    
+}
+h3{
+    text-align: center;
+    color: white;
+    text-shadow: 2px 2px 3px white, 2px 2px 3px #0000ff;
+}
+.c{
+    color: white;
+    text-shadow: 2px 2px 3px white, 2px 2px 3px #0000ff;
+}
